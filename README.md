@@ -39,3 +39,6 @@ pnpm run fix
 ```bash
 pnpm run format
 ```
+
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/edifice-frontend-framework
